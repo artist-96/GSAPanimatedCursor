@@ -34,8 +34,9 @@ body{
 }
 
 .container{
-    height: 40%;
-    width: 60%;
+    height: 40vh;
+    width: 60vw;
+    position: relative;
 }
 
 .box{
